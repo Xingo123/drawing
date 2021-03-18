@@ -41,8 +41,6 @@ def sketch_a_flower ():
 load_window()
 sketch_a_flower()
 
-
-
 def exit_window():
     window = turtle.Screen()
     window.exitonclick()
